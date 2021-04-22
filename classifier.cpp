@@ -7,4 +7,9 @@ public:
 	{
 		printf("train()");
 	}
+
+	void predict(void)
+	{
+		printf("predict()");
+	}
 };
